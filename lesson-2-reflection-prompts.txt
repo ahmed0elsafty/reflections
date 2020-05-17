@@ -1,21 +1,24 @@
 What happens when you initialize a repository? Why do you need to do it?
 	has no commits 
-	has no tracked files
+	has no tracked files,i need to store .get file and using version control
 	
-
 How is the staging area different from the working directory and the repository?
 
-	staging area is the intermediat step before the commit action,,we can add and remove files from it therfore, whitch files commit with each other
+	staging area is the intermediat step before the commit action,,we can add and remove files from it therefore, whitch files commit with each other
 
 What value do you think it offers?
+	when would undo the changes you made or when want to commit more files in the same commit 
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+	by making some descision in it
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	when i make anew version to my programe ,or when i want to expriment some of changes that don't know the result 
 
 How do the diagrams help you visualize the branch structure?
+	
+	help me to discover which commits that no longer reached
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
